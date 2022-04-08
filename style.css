@@ -495,13 +495,17 @@ button {
 .panel-rd .panel-footer {
     border-radius: 0 0 29px 29px;
 }
-
+.form-group{
+   
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
-    margin-left: 10px;
-    margin-bottom: 15px;
-    margin-top: 15px;
+    padding-left: 10px;
+    
+   
 }
 
 .scrollToTop {
