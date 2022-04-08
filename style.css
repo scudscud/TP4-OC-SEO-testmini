@@ -49,6 +49,7 @@ a:hover {
     padding: 20px 50px;
 }
 
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -790,7 +791,11 @@ h4 {
 .bgc-atomic-tangerine {
     background-color: #F3976C;
 }
-
+.text-center-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .tc-white {
     color: #F3976C!important;
 }
