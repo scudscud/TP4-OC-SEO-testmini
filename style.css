@@ -700,6 +700,11 @@ p{
     color: #333333!important;
 }
 
+.header-space{
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+}
 
 .cta-hero {
     margin-top: 22px;
@@ -716,13 +721,16 @@ p{
     justify-content: center;
     align-items: center;
 }
-
+.accueil{
+    text-decoration: none;
+    font-size: 18px;
+}
 .social-f{
-    display: flex;
-   text-decoration: none;
-   justify-content:space-between;
-     width: 100%;
-    max-width: 400px;
+display: flex;
+text-decoration: none;
+justify-content:space-between;
+width: 100%;
+max-width: 400px;
     
 }
 
