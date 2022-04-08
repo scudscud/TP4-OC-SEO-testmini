@@ -637,14 +637,27 @@ h3,
 h4,
 h5,
 h6,
-p,
 label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
+    font-weight: 800;
     color: #575757!important;
 }
+
+p{
+    font-family: "helvetica";
+    font-weight: 600;
+    color: #575757!important;
+    font-size: 18px;
+    line-height: 1.2em;
+
+}
+
+
+
+
+
 
 .container {
     max-width: 1000px;
@@ -668,9 +681,7 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
-}
+
 
 .tight-width-whitespace {
     max-width: 600px;
@@ -678,7 +689,7 @@ p {
 }
 
 .h1 {
-    font-size: 20px;
+    font-size: 26px;
     font-family: "Open Sans";
 }
 
@@ -697,12 +708,12 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
