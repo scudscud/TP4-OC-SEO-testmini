@@ -500,6 +500,8 @@ button {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
     margin-left: 10px;
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 
 .scrollToTop {
