@@ -497,13 +497,14 @@ button {
 }
 .form-group{
    
-    margin-bottom: 15px;
-    margin-top: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
     padding-left: 10px;
+    height: 25px;
     
    
 }
