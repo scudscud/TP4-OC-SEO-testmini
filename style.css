@@ -666,6 +666,9 @@ p{
     font-size: 16px;
     line-height: 1.2em;
 }
+.p1-m{
+    text-align: center;
+}
 
 .container {
     max-width: 1000px;
