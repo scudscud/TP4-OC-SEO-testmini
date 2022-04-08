@@ -704,11 +704,11 @@ p{
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000000!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 16px;
-    font-weight: 700;
+    font-size: 18px;
+    font-weight: 800;
 }
 
 .social {
@@ -744,6 +744,9 @@ h4 {
     margin-top: 24px;
 }
 
+.black{
+    color: black!important;
+}
 .white {
     color: #FFFFFF!important;
 }
@@ -762,7 +765,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(61, 47, 6, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -789,12 +792,11 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
-
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
