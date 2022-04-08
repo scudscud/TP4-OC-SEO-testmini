@@ -32,6 +32,11 @@ a:hover {
 .image-resize-mode{
     border-radius: 40%;
 }
+.size-logo{
+    width: 225px;
+    height: 40px;
+
+}
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
