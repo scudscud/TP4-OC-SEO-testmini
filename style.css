@@ -29,6 +29,10 @@ a:hover {
     background-size: cover;
     position: relative;
 }
+.img-responsive{
+ width: auto;
+ height: auto;
+} 
 .image-resize-mode{
     border-radius: 40%;
 }
