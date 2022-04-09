@@ -653,13 +653,13 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 800;
-    color: #575757!important;
+    color: #575757;
 }
 
 p{
     font-family: "helvetica";
     font-weight: 600;
-    color: #575757!important;
+    color: #575757;
     font-size: 18px;
     line-height: 1.2em;
 }
@@ -667,14 +667,14 @@ p{
     font-family: "helvetica";
     font-style: italic;
     font-weight: 600;
-    color: #575757!important;
+    color: #575757;
     font-size: 18px;
     line-height: 1.2em;
 }
 .pq{
     font-family: 'Courier New', Courier, monospace;
     font-weight: 600;
-    color: #575757!important;
+    color: #575757;
     font-size: 16px;
     line-height: 1.2em;
 }
@@ -1032,6 +1032,7 @@ h4 {
     .bloc-lg {
         padding: 40px 0;
     }
+   
     .bloc-sm,
     .bloc-md {
         padding-left: 0;
