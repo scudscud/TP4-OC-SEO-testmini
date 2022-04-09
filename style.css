@@ -429,6 +429,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    
 }
 
 .mg-lg {
@@ -829,7 +830,11 @@ h4 {
     align-items: center;
 }
 .tc-white {
-    color: #F3976C!important;
+    color: #F3976C;
+}
+.tc-white-1{
+    color:white;
+    
 }
 
 
