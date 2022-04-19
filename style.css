@@ -629,6 +629,7 @@ p {
   justify-content: center;
   align-items: center;
 }
+
 .accueil {
   text-decoration: none;
   font-size: 18px;
@@ -734,6 +735,9 @@ h4 {
   color: #364577 !important;
   border-color: #364577 !important;
 }
+.linkfooter{
+  text-decoration: none;
+}
 .bg-dots-bg {
   background-image: url("img/dots-bg.png");
 }
@@ -758,6 +762,7 @@ h4 {
     padding-left: 0;
     padding-right: 0;
   }
+  
 }
 @media (max-width: 992px) and (min-width: 768px) {
   .navbar .nav {
@@ -772,6 +777,7 @@ h4 {
     background-attachment: scroll;
   }
 }
+
 @media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
   .b-parallax {
     background-attachment: scroll;
@@ -788,6 +794,7 @@ h4 {
   .page-container {
     overflow-x: hidden;
     position: relative;
+    
   }
   .bloc-group,
   .bloc-group .bloc {
